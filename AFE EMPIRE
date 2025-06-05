@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AFE EMPIRE</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fdfdfd;
+      color: #333;
+    }
+    header {
+      background-color: #111;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #333;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      padding: 10px 0;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .hero {
+      background: url('https://images.unsplash.com/photo-1592878849121-b343f234252a') no-repeat center center/cover;
+      color: white;
+      padding: 100px 20px;
+      text-align: center;
+    }
+    .section {
+      padding: 40px 20px;
+      text-align: center;
+    }
+    .section h2 {
+      margin-bottom: 20px;
+      color: #222;
+    }
+    .section p {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    footer {
+      background-color: #111;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>AFE EMPIRE</h1>
+    <p>Empowering Beauty, Energy & Connectivity</p>
+  </header>
+
+  <nav>
+    <a href="#beauty">Hair & Beauty</a>
+    <a href="#solar">Solar Products</a>
+    <a href="#phones">Phones & Accessories</a>
+  </nav>
+
+  <div class="hero">
+    <h2>Welcome to AFE EMPIRE</h2>
+    <p>Your one-stop destination for hair & beauty, solar energy solutions, and smart mobile devices.</p>
+  </div>
+
+  <div class="section" id="beauty">
+    <h2>Hair & Beauty</h2>
+    <p>Discover a wide selection of wigs, hair care products, styling tools, and beauty accessories that help you look and feel your best every day.</p>
+  </div>
+
+  <div class="section" id="solar">
+    <h2>SunKing Solar Products</h2>
+    <p>Explore our affordable and reliable solar energy solutions designed to power your home and business efficiently and sustainably.</p>
+  </div>
+
+  <div class="section" id="phones">
+    <h2>Phones & Accessories</h2>
+    <p>Find the latest smartphones and accessories to stay connected and enhance your mobile experience.</p>
+  </div>
+
+  <footer>
+    <p>&copy; 2024 AFE EMPIRE. All rights reserved.</p>
+  </footer>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AFE EMPIRE</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fdfdfd;
+      color: #333;
+    }
+    header {
+      background-color: #111;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #333;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      padding: 10px 0;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .hero {
+      background: url('https://images.unsplash.com/photo-1592878849121-b343f234252a') no-repeat center center/cover;
+      color: white;
+      padding: 100px 20px;
+      text-align: center;
+    }
+    .section {
+      padding: 40px 20px;
+      text-align: center;
+    }
+    .section h2 {
+      margin-bottom: 20px;
+      color: #222;
+    }
+    .section p {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    footer {
+      background-color: #111;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>AFE EMPIRE</h1>
+    <p>Empowering Beauty, Energy & Connectivity</p>
+  </header>
+
+  <nav>
+    <a href="#beauty">Hair & Beauty</a>
+    <a href="#solar">Solar Products</a>
+    <a href="#phones">Phones & Accessories</a>
+  </nav>
+
+  <div class="hero">
+    <h2>Welcome to AFE EMPIRE</h2>
+    <p>Your one-stop destination for hair & beauty, solar energy solutions, and smart mobile devices.</p>
+  </div>
+
+  <div class="section" id="beauty">
+    <h2>Hair & Beauty</h2>
+    <p>Discover a wide selection of wigs, hair care products, styling tools, and beauty accessories that help you look and feel your best every day.</p>
+  </div>
+
+  <div class="section" id="solar">
+    <h2>SunKing Solar Products</h2>
+    <p>Explore our affordable and reliable solar energy solutions designed to power your home and business efficiently and sustainably.</p>
+  </div>
+
+  <div class="section" id="phones">
+    <h2>Phones & Accessories</h2>
+    <p>Find the latest smartphones and accessories to stay connected and enhance your mobile experience.</p>
+  </div>
+
+  <footer>
+    <p>&copy; 2024 AFE EMPIRE. All rights reserved.</p>
+  </footer>
+</body>
+</html>
